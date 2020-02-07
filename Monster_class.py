@@ -1,0 +1,2 @@
+# Do monster class
+
