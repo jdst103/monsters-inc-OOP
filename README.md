@@ -59,3 +59,5 @@ sully = Student('Sully', 'strong', 1010, ['Element of surprise', 'Biology of Hum
 ````
 
 These instances was called using print(). 
+
+polymorphism exist from changing the eat function in the student class. 

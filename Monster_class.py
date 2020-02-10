@@ -48,7 +48,7 @@ class Monster():
     #prints scary list in conventional format
     def list_scary_skill(self):
         for scary_sk in self.scary_skills:
-            print('scary skills:  ', scary_sk)
+            return('scary skills:  ', scary_sk)
 
 
 
